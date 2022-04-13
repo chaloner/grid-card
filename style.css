@@ -93,6 +93,9 @@ h3{
 	font-size: 20px;
 	margin-bottom: 20px;
 }
+.last-paragraph{
+	opacity: 80%;
+}
 .container{
 	display: grid;
 	grid-template-columns: repeat(4, 1fr);
